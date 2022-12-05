@@ -1,4 +1,4 @@
-# new-support-tools
+# new-support-tools-yamap
 
 ## Next + サーバーレスなモダンなフレームワークで実装する
 ### ファイル構成
